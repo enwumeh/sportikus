@@ -10,12 +10,14 @@ Welcome to our sportings goods store replete with athletic merchandise, products
 
 https://sportikus.herokuapp.com/api/products/
 
-```__SEI Team:__             __UXDI Team:__
+```
+__SEI Team:__             __UXDI Team:__
    Juan Comacho               Erin DeGrand     
    Ash Gonzales               Jhlesa Felder
    Sandy Jacobson             Monica Han
    Breeana Johnson            Vincent O'Dowd
    Emma Nwumeh                Markus Ricardo
+   
 ```
 
 ## API and Data Sample
