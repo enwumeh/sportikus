@@ -78,8 +78,8 @@ Tools used: Figma
 |September 25| Back End CRUD Functionality / Product Rendering on Product Page / Task Delegations | COMPLETE
 |September 26| Front End CRUD Functionality | COMPLETE
 |September 27| Front End CRUD Functionality | COMPLETE
-|September 28| Finalize Merges / Finish Front End CRUD / Utilities (Sorting/Search) / MVP | Incomplete
-|September 29| Utilities (Sorting/Search) / CSS | Incomplete
+|September 28| Finalize Merges / Finish Front End CRUD / Utilities (Sorting/Search) / MVP | COMPLETE
+|September 29| Utilities (Sorting/Search) / CSS | COMPLETE
 |September 30| CSS / Post MVP / Last-Minute Alterations | Incomplete
 |October 1| CSS / Post MVP | Incomplete
 |October 2| Morning Code Review, Clean-Up and Commenting / Presentations | Incomplete
