@@ -11,7 +11,7 @@ Welcome to our sportings goods store replete with athletic merchandise, products
 https://sportikus.herokuapp.com/api/products/
 
 ```
-    SEI Team:                 UXDI Team:
+    SEI TEAM:                 UXDI TEAM:
    Juan Comacho               Erin DeGrand     
    Ash Gonzales               Jhlesa Felder
    Sandy Jacobson             Monica Han
